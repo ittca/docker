@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "This will create a new docker container with mariadb latest and a user as root"
 read -p "want to continue press any key, to leave CTRL + C" RUN_SCRIPT
 
